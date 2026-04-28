@@ -1,0 +1,37 @@
+.img{
+    border-radius: 100%;
+    display: flex;
+    cursor: pointer;
+}
+div{
+    
+}
+li {
+    color: rgb(31, 30, 30);
+}
+ul :hover {
+    color: azure;
+}
+h4 {
+    cursor: grab;
+}
+
+.ttt{
+    display: flex;
+    justify-content: space-around;
+
+}
+.a, .b, .c{
+    width: 350px;
+    border: 0.5px solid black;
+    background-color: rgb(216, 236, 204);
+    cursor: pointer;
+}
+fieldset{
+    border-radius: 3%;
+    background-color: rgb(252, 252, 227);
+}
+.tkwls{
+    width: 100px;
+    height: 100px;
+}
